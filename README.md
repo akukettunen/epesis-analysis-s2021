@@ -8,15 +8,8 @@ with the help of data provided by my company Asoft Oy. Data analysis is done wit
 ### Finnish baseball
 Finnish baseball is a derivative of baseball created just after the WWI. It is a highly popular sport in Finland and barely played anywhere else. Here's a great clip to get a feel of the fast paced game.
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/watch?v=yv2bsKRvVx4"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+https://www.youtube.com/watch?v=yv2bsKRvVx4
+
 
 ### Some neat graphs
 ###### Average time ran from third base to home base in the men's league
