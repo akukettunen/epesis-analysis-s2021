@@ -1,0 +1,44 @@
+{
+  "build": "h0dc7051_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/Users/akukettunen/opt/miniconda3/pkgs/pandoc-2.11-h0dc7051_0",
+  "features": "",
+  "files": [
+    "bin/pandoc"
+  ],
+  "fn": "pandoc-2.11-h0dc7051_0.conda",
+  "legacy_bz2_md5": "3b9e0a23582c5a772819fd4595e2d556",
+  "legacy_bz2_size": 14676703,
+  "license": "GPL-2.0",
+  "license_family": "GPL",
+  "link": {
+    "source": "/Users/akukettunen/opt/miniconda3/pkgs/pandoc-2.11-h0dc7051_0",
+    "type": 1
+  },
+  "md5": "d98bd5946506b8b7589ca521b193df46",
+  "name": "pandoc",
+  "package_tarball_full_path": "/Users/akukettunen/opt/miniconda3/pkgs/pandoc-2.11-h0dc7051_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/pandoc",
+        "path_type": "hardlink",
+        "sha256": "f8908cd59dbe574e94dd4807c2bb597cb808188fec08eecdd820a5f866715ff3",
+        "sha256_in_prefix": "f8908cd59dbe574e94dd4807c2bb597cb808188fec08eecdd820a5f866715ff3",
+        "size_in_bytes": 92826672
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "01bd207e22f4de9437ad214c3cacf24e5a83a048f5477998e7ee9848fe4bb551",
+  "size": 11339792,
+  "subdir": "osx-64",
+  "timestamp": 1602698659665,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/pandoc-2.11-h0dc7051_0.conda",
+  "version": "2.11"
+}

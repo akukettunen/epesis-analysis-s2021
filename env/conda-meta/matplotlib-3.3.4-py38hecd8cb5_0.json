@@ -1,0 +1,36 @@
+{
+  "build": "py38hecd8cb5_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.3.4,<3.3.5.0a0",
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "/Users/akukettunen/opt/miniconda3/pkgs/matplotlib-3.3.4-py38hecd8cb5_0",
+  "features": "",
+  "files": [],
+  "fn": "matplotlib-3.3.4-py38hecd8cb5_0.conda",
+  "legacy_bz2_md5": "83a87ae1fd9ff641e362108ac58e3942",
+  "license": "LicenseRef-PSF-based",
+  "license_family": "PSF",
+  "link": {
+    "source": "/Users/akukettunen/opt/miniconda3/pkgs/matplotlib-3.3.4-py38hecd8cb5_0",
+    "type": 1
+  },
+  "md5": "74ef5c8144ad6dce275e7133712caa95",
+  "name": "matplotlib",
+  "package_tarball_full_path": "/Users/akukettunen/opt/miniconda3/pkgs/matplotlib-3.3.4-py38hecd8cb5_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "ef45330f61b45e6ab71bf9ec2f7e165d64073be07ebabc229dfd91ea0debbe97",
+  "size": 26824,
+  "subdir": "osx-64",
+  "timestamp": 1613408301936,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/matplotlib-3.3.4-py38hecd8cb5_0.conda",
+  "version": "3.3.4"
+}
